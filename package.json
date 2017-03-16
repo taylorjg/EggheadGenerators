@@ -1,0 +1,28 @@
+{
+  "name": "eggheadgenerators",
+  "version": "0.0.0",
+  "description": "Playing around with code from lesson 6 of egghead.io course, 'Write simple asynchronous code with JavaScript generators'",
+  "main": "quote1.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorjg/EggheadGenerators.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "generators"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorjg/EggheadGenerators/issues"
+  },
+  "homepage": "https://github.com/taylorjg/EggheadGenerators#readme"
+}
